@@ -1,0 +1,8 @@
+{
+    "author" : "Basmala",
+    "title": "XML Developer's Guide",
+    "genre" : "Computer", 
+    "price" : 44.95, 
+    "publish_date" : "2026-10-01", 
+    "description" : "An in-depth look at creating applications with XML"
+}
